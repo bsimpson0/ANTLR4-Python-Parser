@@ -19,4 +19,4 @@ of the python file.
 
 GITHUB LINK:
 
-YOUTUBE LINK:
+YOUTUBE LINK: https://youtu.be/ZeQw0AWqJLE
